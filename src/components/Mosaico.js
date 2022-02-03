@@ -31,10 +31,12 @@ export const Mosaico = () => {
                   <a className="ver-mas" href="./htmls/deportes.html">Ver todo</a>
               </div>
             </div>
+
           </div>
           <div className="col">
             <div className="card shadow-sm">
               <img
+              
                 className="bd-placeholder-img card-img-top"
                 width="100%"
                 height="225"
