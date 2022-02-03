@@ -141,10 +141,13 @@ float: right;
 }
 .text-imput{
   width: 100%;
-  color:#e7e7e7;
 }
 #field{
   width: 100%;
+}
+::placeholder{
+  color:#e7e7e7;
+
 }
 footer{
   max-width: 800px;
