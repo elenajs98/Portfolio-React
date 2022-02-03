@@ -3,6 +3,7 @@ import Intro from './components/Intro';
 import Mosaico from './components/Mosaico';
 import Experiencia from './components/Experiencia';
 import Contacto from './components/Contacto';
+import Footer from './components/Footer';
 function App() {
   return (
     <>
@@ -10,6 +11,7 @@ function App() {
     <Mosaico />
     <Experiencia />
     <Contacto />
+    <Footer />
     </>
   );
 }
