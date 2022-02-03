@@ -56,6 +56,7 @@ export const Contacto = () => {
             value="Enviar"
             data-wait="Please wait..."
             className="button"
+            id="enviar"
           />
         </form>
       </div>

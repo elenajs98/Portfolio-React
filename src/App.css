@@ -107,7 +107,6 @@ h2 {
   color: #999999;
 }
 #icon-grid {
-  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   background-color: white;
 }
 
@@ -131,10 +130,19 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   background-color: #f9f9f9;
-  padding: 24px;
-  
-  margin-bottom: 24px;
+  padding: 5%;
+  margin-bottom: 5%;
+  padding-bottom: 7.5%;
+  padding-top: 2.5%;
 }
-.text-input {
-  max-width: 800px;
+#enviar{
+  margin-top: 5%;
+float: right;
+}
+.text-imput{
+  width: 100%;
+  color:#e7e7e7;
+}
+#field{
+  width: 100%;
 }
