@@ -2,6 +2,7 @@ import React from 'react';
 import frontend from './imagenes/frontend.png';
 import rugby from './imagenes/rugby.JPG';
 import siem from './imagenes/siem.JPG';
+import deportes from './htmls/deportes.html';
 
 export const Mosaico = () => {
   return (
@@ -28,7 +29,7 @@ export const Mosaico = () => {
                     Los deportes han sido mi pasión desde muy pequeña. En este apartado
                     haremos un pequeño recorrido por mi carrera deportiva
                   </p>
-                  <a className="ver-mas" href="./htmls/deportes.html">Ver todo</a>
+                  <a className="ver-mas" href={deportes}>Ver todo</a>
               </div>
             </div>
 
