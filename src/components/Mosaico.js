@@ -2,7 +2,7 @@ import React from 'react';
 import frontend from './imagenes/frontend.png';
 import rugby from './imagenes/rugby.JPG';
 import siem from './imagenes/siem.JPG';
-import deportes from './htmls/deportes.html';
+import deportes from './htmls/Deportes.js';
 
 export const Mosaico = () => {
   return (
